@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+*.log
+
+# production
+haters/
+.next/
+.build/
+variables.env
+
+# misc
+.DS_Store
