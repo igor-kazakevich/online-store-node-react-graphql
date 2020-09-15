@@ -1,7 +1,7 @@
 # FullStack online store with  React + GraphQL
 
 ### Live:
-- #### [FrontEnd application](https://dashboard.heroku.com/apps/nextjs-sick-fits-prod)
+- #### [FrontEnd application](https://nextjs-sick-fits-prod.herokuapp.com/)
 - #### [Prisma server](https://sick-fits-b8e1fcd65a.herokuapp.com/sick-fits-prod/prod)
 
 ### Tech stack:
